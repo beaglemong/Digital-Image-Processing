@@ -1,2 +1,2 @@
 # Digital Image Processing
-# To study befor Computer Vision
+In order to study Computer Vision💪🏻
